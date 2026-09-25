@@ -105,3 +105,7 @@ Example rebuild request:
 - The server preserves `map_Kd` references in `mesh.mtl`.
 - Texture files are copied through unchanged in the MVP.
 - Acceptance coverage lives in [tests/test_acceptance.py](/d:/projects/mesh-obb-cutter/tests/test_acceptance.py).
+
+## License
+
+Licensed under the [Apache License 2.0](LICENSE).
